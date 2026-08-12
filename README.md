@@ -20,6 +20,7 @@ The dashboard includes:
 - **Order Revenue by Shipping Method** — shows the distribution of order revenue across shipping methods.
 - **Order Volume by Carrier** — compares order volume across carriers.
 - **Order Year Filter** — allows users to interactively filter dashboard results by year.
+- **Warehouse Filter** — allows users to filter the dashboard by warehouse and compare performance across individual warehouse locations.
 
 
 <p align="center">
