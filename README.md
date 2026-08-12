@@ -21,11 +21,12 @@ The dashboard includes:
 - **Order Volume by Carrier** — compares order volume across carriers.
 - **Order Year Filter** — allows users to interactively filter dashboard results by year.
 
+
 <p align="center">
   <a href="https://public.tableau.com/views/eXcelerate_Supply_Chain_AC/SupplyChainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img width="800"
          alt="Supply Chain Performance Tableau Dashboard"
-         src="https://github.com/user-attachments/assets/3f11a891-4c24-4259-88c1-50c3d6b92c66" />
+         src="https://github.com/user-attachments/assets/8110f20d-f088-491a-9ab7-39403b60bcc2" />
   </a>
 </p>
 
