@@ -72,7 +72,7 @@ The dataset includes information related to:
 
 These fields were used to develop the dashboard's KPIs, calculated fields, visualizations, and interactive filters.
 
-📄 **[View the Supply Chain Dataset](F_ORD_Sales.csv)**
+📄 **[View the Supply Chain Dataset](https://github.com/armanichalmers/Tableau_Supply_Chain_Dashboard/blob/main/F_ORD_Sales.csv)**
 
 ---
 
