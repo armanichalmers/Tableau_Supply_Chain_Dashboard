@@ -27,7 +27,7 @@ The dashboard includes:
   <a href="https://public.tableau.com/views/eXcelerate_Supply_Chain_AC/SupplyChainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img width="800"
          alt="Supply Chain Performance Tableau Dashboard"
-         src="https://github.com/user-attachments/assets/8110f20d-f088-491a-9ab7-39403b60bcc2" />
+         src="https://github.com/user-attachments/assets/54549eff-8f58-406b-8757-4672b6071c9c" />
   </a>
 </p>
 
