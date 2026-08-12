@@ -52,6 +52,30 @@ The dashboard includes:
 - Data Aggregation
 - Dashboard Formatting & Design
 
+---
+
+## 📁 Dataset
+
+The Tableau dashboard was developed using the **F_ORD_Sales.csv** dataset, which contains **6,219 sales and order records across 16 fields**.
+
+The dataset includes information related to:
+
+- Order IDs and order dates
+- Customers, products, and suppliers
+- Warehouse codes
+- Shipping states and shipping methods
+- Carriers and order status
+- Unit quantities and weights
+- Unit prices and discounts
+- Freight costs
+- Line-level sales totals
+
+These fields were used to develop the dashboard's KPIs, calculated fields, visualizations, and interactive filters.
+
+📄 **[View the Supply Chain Dataset](F_ORD_Sales.csv)**
+
+---
+
 
 ## 🧮 Tableau Calculations
 
