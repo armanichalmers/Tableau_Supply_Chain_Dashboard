@@ -56,7 +56,7 @@ The dashboard includes:
 
 ## 📁 Dataset
 
-The Tableau dashboard was developed using the **F_ORD_Sales.csv** dataset, which contains **6,219 sales and order records across 16 fields**.
+The Tableau dashboard was developed using the [**`F_ORD_Sales.csv`**](https://github.com/armanichalmers/Tableau_Supply_Chain_Dashboard/blob/main/F_ORD_Sales.csv) dataset, which contains **6,219 sales and order records across 16 fields**.
 
 The dataset includes information related to:
 
@@ -71,8 +71,6 @@ The dataset includes information related to:
 - Line-level sales totals
 
 These fields were used to develop the dashboard's KPIs, calculated fields, visualizations, and interactive filters.
-
-📄 **[View the Supply Chain Dataset](https://github.com/armanichalmers/Tableau_Supply_Chain_Dashboard/blob/main/F_ORD_Sales.csv)**
 
 ---
 
